@@ -17,3 +17,5 @@ Requiere Python 3.10 o superior. No necesita instalar nada.
 - logistica_terrestre.py / logistica_maritima.py: creadores concretos
 - avion.py / logistica_aerea.py: extensión (actividad 3.5)
 - main.py: cliente
+- test_logistica.py: pruebas unitarias
+- contraste_if.py: versión sin el patrón (actividad 3.8)
